@@ -1,3 +1,4 @@
+@@||tteck.github.io^$important
 @@||akamaihd.net^$important
 @@||akamaitechnologies.com^$important
 @@||akamaized.net^$important
